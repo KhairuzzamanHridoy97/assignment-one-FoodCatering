@@ -3,12 +3,6 @@ body{
     font-family: 'Roboto', sans-serif;
 }
 
-/* .header{
-    background: url("../img/Frame\ 58.jpg");
-    background-repeat: no-repeat;
-    height: 600px;
-} */
-
 h1{
     font-size: 55px;
 }
@@ -27,6 +21,7 @@ h3{
     margin-top: 5%;
     /* margin-right: 2%; */
 }
+
 
 
 .li-button{
@@ -59,10 +54,21 @@ h3{
 
 .about{
     background: url("../img/7.png");
-
+    background-position:center;
     background-repeat: no-repeat;
 }
 
+.width-sizing #person-img{
+    width: 50%;
+    height: auto;
+    margin-bottom: 0;
+    margin-left: 15%;
+    /* margin-right: 14%; */
+}
+
+#about-descrip{
+    margin-right: 10%;
+}
 
 .recipe{
     text-align: center;
@@ -76,6 +82,7 @@ h3{
 .recipe-card{
   box-shadow: 15px 15px 30px rgba(70, 30, 50, 0.7);
   max-width: 300px;
+  /* margin: 6% 6%; */
   margin: auto;
   padding: 18px 20px 0px 20px;
   text-align: center;
@@ -87,6 +94,10 @@ h3{
     width: 100%;
      
     border-radius: 10%;
+}
+
+.recipe-element{
+    text-align: justify;
 }
 
 
