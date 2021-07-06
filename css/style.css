@@ -3,10 +3,11 @@ body{
     font-family: 'Roboto', sans-serif;
 }
 
-.header{
+/* .header{
     background: url("../img/Frame\ 58.jpg");
     background-repeat: no-repeat;
-}
+    height: 600px;
+} */
 
 h1{
     font-size: 55px;
@@ -58,7 +59,7 @@ h3{
 
 .about{
     background: url("../img/7.png");
-    
+
     background-repeat: no-repeat;
 }
 
