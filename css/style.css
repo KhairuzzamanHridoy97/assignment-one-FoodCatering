@@ -4,7 +4,7 @@ body{
 }
 
 .header{
-    background: url(/img/Frame\ 58.jpg);
+    background: url(../img/Frame\ 58.jpg);
     background-repeat: no-repeat;
     height: 40%;
 }
@@ -58,7 +58,7 @@ h3{
 }
 
 .about{
-    background: url("/img/7.png");
+    background: url("../img/7.png");
     background-repeat: no-repeat;
 }
 
@@ -107,6 +107,7 @@ footer{
     background-color: black;
     text-align: center;
     color: antiquewhite;
+    
     padding: 18px;
 }
 
