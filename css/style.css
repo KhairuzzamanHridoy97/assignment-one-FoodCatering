@@ -4,7 +4,7 @@ body{
 }
 
 .header{
-    background: url(../img/Frame\ 58.jpg);
+    background: url("../img/Frame\ 58.jpg");
     background-repeat: no-repeat;
 }
 
@@ -57,7 +57,7 @@ h3{
 }
 
 .about{
-    background: url("../img/7.png");
+    background: url(../img/7.png);
     background-repeat: no-repeat;
 }
 
