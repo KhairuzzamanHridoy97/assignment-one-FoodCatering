@@ -114,7 +114,6 @@ h3{
     box-shadow: 5px 5px 10px rgba(30,30,30,.4);
     border-radius: 20px;
 }
-
 .form-sec{
     text-align: center;
     background-color: bisque;
@@ -142,6 +141,7 @@ h3{
     border-radius: 10px;
     margin-right: 12px;
 }
+
 .form-div #reset{
     padding: 10px;
     font-size: 20px;
